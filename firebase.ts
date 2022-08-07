@@ -10,7 +10,7 @@ import { getAuth } from 'firebase/auth'
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 //995ea1569ea5c8712ad558a07ab83e90
 const firebaseConfig = {
-  apiKey: "AIzaSyBOr-9CTOuDmqa5UnJ_loYJiub6Ko4LkKY",
+  apiKey: "",
   authDomain: "milfy-way.firebaseapp.com",
   projectId: "milfy-way",
   storageBucket: "milfy-way.appspot.com",
